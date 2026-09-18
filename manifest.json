@@ -1,0 +1,12 @@
+{
+  "name": "BİM Ziyaret Raporu",
+  "short_name": "BİM Ziyaret",
+  "description": "BİM mağaza ziyaret ve kontrol raporu",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceff1",
+  "theme_color": "#b71c1c",
+  "lang": "tr",
+  "orientation": "portrait"
+}
